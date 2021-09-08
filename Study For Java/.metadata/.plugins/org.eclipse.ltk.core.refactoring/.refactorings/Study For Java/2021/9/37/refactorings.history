@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Study_Java_01_05.ForlnFor&apos; to &apos;ForInFor&apos;&#x0D;&#x0A;- Original project: &apos;Study For Java&apos;&#x0D;&#x0A;- Original element: &apos;Study_Java_01_05.ForlnFor&apos;&#x0D;&#x0A;- Renamed element: &apos;Study_Java_01_05.ForInFor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ForlnFor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Study_Java_01_05{ForlnFor.java[ForlnFor" matchStrategy="1" name="ForInFor" qualified="false" references="true" similarDeclarations="false" stamp="1631089831801" textual="false" version="1.0"/>
+</session>
