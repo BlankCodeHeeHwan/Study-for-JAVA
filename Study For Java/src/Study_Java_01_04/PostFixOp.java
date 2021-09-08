@@ -1,0 +1,16 @@
+package Study_Java_01_04;
+
+public class PostFixOp {
+	public static void main(String[] args) {
+		int num = 5;
+		System.out.print((num++) + " "); //출력 후에 값이 증가
+		System.out.print((num++) + " "); // 출력 후에 값이 증가
+		System.out.print(num + "\n");
+		
+		System.out.print((num--) + " "); // 출력 후에 값이 감소
+		System.out.print((num--) + " "); // 출력 후에 값이 감소
+		System.out.print(num);
+		
+	}
+
+}

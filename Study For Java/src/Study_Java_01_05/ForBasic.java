@@ -1,0 +1,9 @@
+package Study_Java_01_05;
+
+public class ForBasic {
+	public static void main(String[] main) {
+		for(int i = 0; i < 5; i++)
+			System.out.println("I love Java " + i);
+	}
+
+}
